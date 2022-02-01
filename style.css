@@ -1,0 +1,459 @@
+body{
+    width: 90%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    background-color:white;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight:900;
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.p{
+    width: 30%;
+    margin: 6px auto auto 6px;
+    width: 48%;
+}
+
+.h2{
+    font-family: 'Raleway', sans-serif;
+    width: 50%;
+    margin:2px 5px 2px 2px;
+}
+
+a{
+    text-decoration: none;
+}
+.logo{
+    position: relative;
+    width: 95px;
+    top: 27px;
+}
+.header{
+    position: relative;
+    
+    
+
+}
+
+.nav-bar{
+    margin: 25px 20px auto 20px;
+    position: relative;
+    left: 1200px;
+    font-size: 100;
+
+}
+
+
+
+.illus-1{
+    width: 600px;
+    position: relative;
+    left:900px;
+    top:50px
+}
+.text{
+    position: relative;
+    bottom: 300px;
+    left: 40px;
+}
+.para{
+    position: relative;
+    bottom: 280px;
+    left: 40px;
+}
+#co{
+    position: relative;
+    bottom: 3px;
+}
+.email{
+    position: relative;
+    bottom: 220px;
+    left: 50px;
+
+}
+.btn{
+    width: 400px;
+    height: 40px;
+    background-color:hsl(240, 75%, 98%); ;
+    border-radius: 1px;
+    color: black;
+    text-decoration: none;
+    border-color: hsl(240, 75%, 75%);
+    font-family:  'Raleway', sans-serif;
+    border: 1px 1px 1px 1px;
+    
+
+}
+.get{
+    position: relative;
+    bottom: 265px;
+    left: 450px;
+    font-family: 'Raleway', sans-serif;
+    background-color: hsl(224, 93%, 58%);
+    width: 200px;
+    height: 45px;
+    margin: auto 5px auto 30px;
+    text-align: center;
+    border-radius: 3px;
+
+}
+.link{
+    position: relative;
+    top: 12px;
+    color: hsl(240, 75%, 98%);
+}
+.bg-img{
+    width: 1500px;
+    margin: -50px;
+}
+
+
+ .middle{
+     background-color: #f8f8ff;
+     width: 1500px;
+     margin: -5px;
+     
+
+    
+
+ }
+ .illus-2{
+    width: 550px;
+    position: relative;
+    left:900px;
+    top: 100px;
+
+ }
+ .prod{
+     position: absolute;
+     top: 850px;
+     left: 40px;
+ }
+ .say{
+     font-family: 'Raleway', sans-serif;
+     font-weight: 2000;
+
+ }
+ .pera{
+     margin: 0.5px auto 1px auto;}
+
+ .pera-1{
+     margin: 0.5px auto 1px auto ;
+ }    
+
+ .a{
+     position: relative;
+     bottom: 130px;
+     left: 40px;
+    
+ }
+
+ #href{
+    color: hsl(170, 45%, 43%);
+
+ }
+ #hr{
+     position: absolute;
+     width: 170px;
+     height: 1.5px;
+     background-color:hsl(170, 45%, 43%);
+     border-radius: 5px;
+     top: 14px;
+ }
+ .arrow{
+     position: relative;
+     top: 5px;
+     left: 3px;
+ }
+ .quote{
+     position: relative;
+     background-color:hsl(240, 75%, 75%);
+     width: 350px;
+     height: 200px;
+     border-radius: 6px;
+     left: 40px;
+     bottom: 40px;
+     color: white;
+
+ }
+ .fy{
+     position: relative;
+     left: 10px;
+     font-size: 17px;
+     width: 350px;
+     font-family: 'Raleway', sans-serif;
+ }
+ .ic{
+     position: relative;
+     left: 8px;
+     top: 8px;
+
+ }
+ .avatar{
+     width: 41px;
+     border-radius: 20px;
+     position: relative;
+     left: 20px;
+     
+ }
+ .har{
+     position: relative;
+     bottom: 62px;
+     left: 70px;
+
+ }
+
+ .fou{
+    position: relative;
+    bottom: 88px;
+    left: 70px;
+
+ }
+ .bottom{
+     width: 1514px;
+     background-color: hsl(238, 22%, 44%);
+     margin: -21px;
+     padding-bottom: 40px;
+     
+    
+    }
+
+    .early{
+        position: relative;
+        left: 40px;
+        color: #f8f8ff;
+        top: 90px;
+        font-weight: 700;
+    }
+    .lovely{
+        position: relative;
+        left:40px;
+        width: 40%;
+        color: #f8f8ff;
+        top: 92px;
+    }
+    .laim{
+        position: relative;
+        left: 900px;
+        bottom: 60px;
+        width: 400px;
+        height: 40px;
+        background-color:hsl(240, 75%, 98%); 
+        border-radius: 1px;
+        color: black;
+        text-decoration: none;
+        border-color: hsl(240, 75%, 75%);
+        font-family:  'Raleway', sans-serif;
+        border: 1px 1px 1px 1px;
+        border-radius: 5px;
+        
+
+
+    }
+    .star{
+        position: relative;
+        left: 870px;
+        position: relative;
+        bottom: 50px;
+        font-family: 'Raleway', sans-serif;
+        background-color: hsl(224, 93%, 58%);
+        width: 200px;
+        height: 45px;
+        margin: auto 5px auto 30px;
+        text-align: center;
+        border-radius: 3px;
+
+    }
+    .for{
+        color:hsl(240, 75%, 98%); 
+        position: relative;
+        top: 12px;
+    }
+    .niche{
+        background:hsl(243, 87%, 12%);
+        width: 1503px;
+        margin: 20px;
+        position: relative;
+        right: 30px;
+      
+        
+    }
+
+    .png{
+        position: relative;
+        top: 20px;
+    }
+    .phone{
+        position: relative;
+        left: 20px;
+        top: 20px;
+
+    }
+    .emai{
+        position: relative;
+        right: 5px;
+        top: 50px;
+
+    }
+    .one{
+        position: relative;
+        left: 45px;
+        bottom: 27px;
+        color: hsl(240, 75%, 98%);
+        font-family: 'Open Sans', sans-serif; 
+        
+
+
+    }
+    .com{
+        position: relative;
+        left: 45px;
+        bottom: 44px;
+        color: hsl(240, 75%, 98%);
+        font-family: 'Open Sans', sans-serif; 
+
+    }
+  
+
+    .w-1{
+        position: relative;
+        left: 800px;
+        bottom: 100px;
+        color: hsl(240, 75%, 98%);
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .w-2{
+        position: relative;
+        left: 730px;
+        bottom: 75px;
+        color: hsl(240, 75%, 98%);
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .w-3{
+        position: relative;
+        left: 693px;
+        bottom: 52px;
+        color: hsl(240, 75%, 98%);
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .w-4{
+        position: relative;
+        left: 650px;
+        bottom: 30px;
+        color: hsl(240, 75%, 98%);
+        font-family: 'Open Sans', sans-serif;
+    }
+    .bottom-nav-2{
+        position: relative;
+        
+        
+    }
+
+    .y-1{
+        position: relative;
+        bottom: 123px;
+        left: 1000px;
+        color: lightcyan;
+        font-family: 'Open Sans', sans-serif;
+
+    }
+
+    .y-1{
+        position: relative;
+        bottom: 123px;
+        left: 1000px;
+        color: lightcyan;
+        font-family: 'Open Sans', sans-serif;
+
+    }
+
+    .y-2{
+        position: relative;
+        bottom: 100px;
+        right: 83px;
+        left: 920px;
+        color: lightcyan;
+        font-family: 'Open Sans', sans-serif;
+
+    }
+    .y-3{
+        position: relative;
+        bottom: 77px;
+        right: 133px;
+        left: 870px;
+        color: lightcyan;
+        font-family: 'Open Sans', sans-serif;
+
+    }
+    .soi{
+        position: relative;
+        
+        top: 40px;
+        
+    }
+    .yt{
+        width: 40px;
+        position: relative;
+        left: 1190px;
+        bottom: 200px;
+
+    }
+    .fb{
+        width: 27px;
+        position: relative;
+        left: 1195px;
+        bottom: 205px;
+
+    }
+    .ig{
+        width: 27px;
+        position: relative;
+        left: 1200px;
+        bottom: 205px
+
+    }
+
+    
+    .tw{
+        width: 27px;
+        position: relative;
+        left: 1205px;
+        bottom: 205px;
+    }
+    .follo{
+        width: 150px;
+        position: relative;
+        left: 1050px;
+        bottom: 220px;
+    }
+
+    .copy{
+        color: seashell;
+        font-family:'Open Sans', sans-serif;
+        text-align: center;
+        position: relative;
+        bottom: 15px;
+    }
+
+    .ado{
+        color: rgb(255, 217, 0);
+        font-family:'Raleway' sans-serif;
+        position: relative;
+        left: 1300px;
+        bottom: 15px;
+    }
+
+  
+    
